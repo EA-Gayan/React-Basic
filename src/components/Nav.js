@@ -6,7 +6,6 @@ function Nav(props) {
                 <li>Articles</li>
                 <li>About</li>
                 <li>Contact</li>
-                <li>{props.li}</li>
             </ul>
         </nav>
     );
